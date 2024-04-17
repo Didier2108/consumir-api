@@ -1,0 +1,19 @@
+.flexContainer{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2%;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card{
+  width: 40vw;
+  padding: 2%;
+  text-align: center;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
